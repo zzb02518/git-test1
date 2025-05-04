@@ -12,5 +12,6 @@ public class App
         System.out.println( "hot-fix World!" );
         System.out.println( "push World!" );
         System.out.println( "push2 World!" );
+        System.out.println( "pull World!" );
     }
 }
